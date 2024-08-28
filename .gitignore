@@ -1,1 +1,7 @@
-/log_prueba.txt
+# /log_prueba.txt - Esto es lo que tenías mientras que lo esperado era ->
+
+#Para los archivos .log
+*.log
+
+#Para la carpeta Modules ó **modules/
+modules/ 
