@@ -1,1 +1,4 @@
+
 /log_prueba.txt
+*.log
+modules/*
